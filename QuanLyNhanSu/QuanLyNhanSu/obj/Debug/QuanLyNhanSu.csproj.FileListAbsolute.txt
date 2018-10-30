@@ -1,0 +1,231 @@
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmMain.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.licenses
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBangCap.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBaoHiemXaHoi.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBaoHiemYTe.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmChamCong.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmHopDongLaoDong.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmKhenThuongKiLuat.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DAO.FrmQuanLyChucVu.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuanLyNhanVien.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuanLyPhongBan.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuaTrinhCongTac.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuaTrinhHocTap.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinDang.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinGiaDinh.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinTaiSan.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmTinhLuong.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeDangVien.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeNhanVienSapNghiHuu.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeNhanVienTheoPhongBan.resources
+G:\Work\2017\Winform\Anh Long\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeSinhNhatTheoThang.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBangCap.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBaoHiemXaHoi.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBaoHiemYTe.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmChamCong.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmHopDongLaoDong.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmKhenThuongKiLuat.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DAO.FrmQuanLyChucVu.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmMain.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuanLyNhanVien.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuanLyPhongBan.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuaTrinhCongTac.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuaTrinhHocTap.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeDangVien.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeNhanVienSapNghiHuu.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeNhanVienTheoPhongBan.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeSinhNhatTheoThang.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinDang.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinGiaDinh.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinTaiSan.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmTinhLuong.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.licenses
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmLogin.resources
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojFakesResolveAssemblyReference.cache
+C:\Users\diagr\Desktop\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmUser.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBangCap.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBaoHiemXaHoi.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBaoHiemYTe.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmChamCong.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmHopDongLaoDong.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmKhenThuongKiLuat.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmLogin.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DAO.FrmQuanLyChucVu.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmMain.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuanLyNhanVien.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuanLyPhongBan.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuaTrinhCongTac.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuaTrinhHocTap.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeNhanVienSapNghiHuu.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeNhanVienTheoPhongBan.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeSinhNhatTheoThang.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinDang.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinGiaDinh.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinTaiSan.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmUser.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\diagr\Desktop\KA\650k01072017\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.licenses
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojFakesResolveAssemblyReference.cache
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBangCap.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBaoHiemXaHoi.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBaoHiemYTe.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmChamCong.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmHopDongLaoDong.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmKhenThuongKiLuat.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmLogin.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DAO.FrmQuanLyChucVu.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmMain.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuanLyNhanVien.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuanLyPhongBan.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuaTrinhCongTac.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuaTrinhHocTap.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeNhanVienSapNghiHuu.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeNhanVienTheoPhongBan.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeSinhNhatTheoThang.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinDang.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinGiaDinh.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinTaiSan.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmUser.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\diagr\Desktop\New folder\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.licenses
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Data.v16.1.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Utils.v16.1.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraBars.v16.1.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Office.v16.1.Core.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Data.v16.1.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Utils.v16.1.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraBars.v16.1.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Office.v16.1.Core.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBangCap.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBaoHiemXaHoi.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmBaoHiemYTe.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmChamCong.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmHopDongLaoDong.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmKhenThuongKiLuat.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmLogin.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DAO.FrmQuanLyChucVu.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmMain.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuanLyNhanVien.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuanLyPhongBan.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuaTrinhCongTac.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmQuaTrinhHocTap.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeNhanVienSapNghiHuu.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeNhanVienTheoPhongBan.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongKeSinhNhatTheoThang.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinDang.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinGiaDinh.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmThongTinTaiSan.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.FrmUser.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.licenses
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+G:\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
