@@ -32,15 +32,15 @@ namespace QuanLyNhanSu
                 barQuanLyNhanVien.Enabled = false;
                 barQuaTrinhCongTac.Enabled = false;
                 barQuaTrinhHocTap.Enabled = false;
-                barThongKeDangVien.Enabled = false;
+                //barThongKeDangVien.Enabled = false;
                 barThongKeNhanVienSapNghiHuu.Enabled = false;
                 barThongKeSinhNhatTheoThang.Enabled = false;
                 barThongKeTheoNhanVien.Enabled = false;
-                barThongTinDang.Enabled = false;
-                barThongTinGiaDinh.Enabled = false;
+                //barThongTinDang.Enabled = false;
+                //barThongTinGiaDinh.Enabled = false;
                 barThongTinKhenThuongKiLuat.Enabled = false;
-                barThongTinTaiSan.Enabled = false;
-                barUser.Enabled = false;
+                //barThongTinTaiSan.Enabled = false;
+                //barUser.Enabled = false;
             }
         }
         #region sự kiện mở các form
