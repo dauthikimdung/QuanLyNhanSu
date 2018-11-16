@@ -59,7 +59,6 @@
     <Compile Include="DAO\BaoHiemXaHoiDAO.cs" />
     <Compile Include="DAO\BaoHiemYTeDAO.cs" />
     <Compile Include="DAO\ChucVuDAO.cs" />
-    <Compile Include="DAO\DangDAO.cs" />
     <Compile Include="DAO\HopDongLaoDongDAO.cs" />
     <Compile Include="DAO\KhenThuongKyLuatDAO.cs" />
     <Compile Include="DAO\LuongDAO.cs" />
@@ -67,8 +66,6 @@
     <Compile Include="DAO\PhongBanDAO.cs" />
     <Compile Include="DAO\QuaTrinhCongTacDAO.cs" />
     <Compile Include="DAO\QuaTrinhHocTapDAO.cs" />
-    <Compile Include="DAO\TaiSanDAO.cs" />
-    <Compile Include="DAO\ThanNhanDAO.cs" />
     <Compile Include="DAO\ThongKeDAO.cs" />
     <Compile Include="DTO\AccountDTO.cs" />
     <Compile Include="GUI\FrmBangCap.cs">
@@ -168,30 +165,6 @@
     <Compile Include="GUI\FrmThongKeSinhNhatTheoThang.Designer.cs">
       <DependentUpon>FrmThongKeSinhNhatTheoThang.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\FrmThongTinDang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="GUI\FrmThongTinDang.Designer.cs">
-      <DependentUpon>FrmThongTinDang.cs</DependentUpon>
-    </Compile>
-    <Compile Include="GUI\FrmThongTinGiaDinh.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="GUI\FrmThongTinGiaDinh.Designer.cs">
-      <DependentUpon>FrmThongTinGiaDinh.cs</DependentUpon>
-    </Compile>
-    <Compile Include="GUI\FrmThongTinTaiSan.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="GUI\FrmThongTinTaiSan.Designer.cs">
-      <DependentUpon>FrmThongTinTaiSan.cs</DependentUpon>
-    </Compile>
-    <Compile Include="GUI\FrmUser.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="GUI\FrmUser.Designer.cs">
-      <DependentUpon>FrmUser.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GUI\FrmBangCap.resx">
@@ -241,18 +214,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\FrmThongKeSinhNhatTheoThang.resx">
       <DependentUpon>FrmThongKeSinhNhatTheoThang.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="GUI\FrmThongTinDang.resx">
-      <DependentUpon>FrmThongTinDang.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="GUI\FrmThongTinGiaDinh.resx">
-      <DependentUpon>FrmThongTinGiaDinh.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="GUI\FrmThongTinTaiSan.resx">
-      <DependentUpon>FrmThongTinTaiSan.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="GUI\FrmUser.resx">
-      <DependentUpon>FrmUser.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">

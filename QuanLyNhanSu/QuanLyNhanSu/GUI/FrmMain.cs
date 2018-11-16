@@ -36,11 +36,9 @@ namespace QuanLyNhanSu
                 barThongKeNhanVienSapNghiHuu.Enabled = false;
                 barThongKeSinhNhatTheoThang.Enabled = false;
                 barThongKeTheoNhanVien.Enabled = false;
-                //barThongTinDang.Enabled = false;
-                //barThongTinGiaDinh.Enabled = false;
+                
                 barThongTinKhenThuongKiLuat.Enabled = false;
-                //barThongTinTaiSan.Enabled = false;
-                //barUser.Enabled = false;
+             
             }
         }
         #region sự kiện mở các form
@@ -134,25 +132,7 @@ namespace QuanLyNhanSu
             frmtg.Show();
         }
 
-        private void barThongTinGiaDinh_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
-        {
-            FrmThongTinGiaDinh frmtg = new FrmThongTinGiaDinh();
-            frmtg.TopLevel = false;
-            frmtg.Dock = DockStyle.Fill;
-            panelMain.Controls.Clear();
-            panelMain.Controls.Add(frmtg);
-            frmtg.Show();
-        }
-
-        private void barThongTinDang_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
-        {
-            FrmThongTinDang frmtg = new FrmThongTinDang();
-            frmtg.TopLevel = false;
-            frmtg.Dock = DockStyle.Fill;
-            panelMain.Controls.Clear();
-            panelMain.Controls.Add(frmtg);
-            frmtg.Show();
-        }
+        
 
         private void barThongTinKhenThuongKiLuat_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
@@ -164,16 +144,7 @@ namespace QuanLyNhanSu
             frmtg.Show();
         }
 
-        private void barThongTinTaiSan_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
-        {
-            FrmThongTinTaiSan frmtg = new FrmThongTinTaiSan();
-            frmtg.TopLevel = false;
-            frmtg.Dock = DockStyle.Fill;
-            panelMain.Controls.Clear();
-            panelMain.Controls.Add(frmtg);
-            frmtg.Show();
-        }
-
+       
         private void barThongKeTheoNhanVien_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             FrmThongKeNhanVienTheoPhongBan frmtg = new FrmThongKeNhanVienTheoPhongBan();
@@ -223,15 +194,7 @@ namespace QuanLyNhanSu
             panelMain.Controls.Add(frmtg);
             frmtg.Show();
         }
-        private void barUser_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
-        {
-            FrmUser frmtg = new FrmUser();
-            frmtg.TopLevel = false;
-            frmtg.Dock = DockStyle.Fill;
-            panelMain.Controls.Clear();
-            panelMain.Controls.Add(frmtg);
-            frmtg.Show();
-        }
+       
         #endregion
 
         private void FrmMain_Load(object sender, EventArgs e)
