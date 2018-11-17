@@ -39,7 +39,6 @@
             this.NGAYSINH = new DevExpress.XtraGrid.Columns.GridColumn();
             this.MASOTHUE = new DevExpress.XtraGrid.Columns.GridColumn();
             this.GIOITINH = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.Lue_GioiTinh = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
             this.SOTKNGANHANG = new DevExpress.XtraGrid.Columns.GridColumn();
             this.SDT = new DevExpress.XtraGrid.Columns.GridColumn();
             this.Email = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -47,6 +46,7 @@
             this.PhongBanID = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.Lue_GioiTinh = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.txbSoTaiKhoan = new System.Windows.Forms.TextBox();
             this.cboGioiTinh = new System.Windows.Forms.ComboBox();
@@ -172,13 +172,6 @@
             this.GIOITINH.VisibleIndex = 1;
             this.GIOITINH.Width = 218;
             // 
-            // Lue_GioiTinh
-            // 
-            this.Lue_GioiTinh.AutoHeight = false;
-            this.Lue_GioiTinh.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.Lue_GioiTinh.Name = "Lue_GioiTinh";
-            // 
             // SOTKNGANHANG
             // 
             this.SOTKNGANHANG.Caption = "Số tài khoản";
@@ -227,6 +220,13 @@
             this.gridColumn2.FieldName = "PHONGBANID";
             this.gridColumn2.Name = "gridColumn2";
             // 
+            // Lue_GioiTinh
+            // 
+            this.Lue_GioiTinh.AutoHeight = false;
+            this.Lue_GioiTinh.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.Lue_GioiTinh.Name = "Lue_GioiTinh";
+            // 
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.White;
@@ -271,8 +271,9 @@
             this.cboGioiTinh.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboGioiTinh.FormattingEnabled = true;
             this.cboGioiTinh.Items.AddRange(new object[] {
-            "Nữ",
-            "Nam"});
+            "Chọn giới tính",
+            "Nam",
+            "Nữ"});
             this.cboGioiTinh.Location = new System.Drawing.Point(83, 264);
             this.cboGioiTinh.Name = "cboGioiTinh";
             this.cboGioiTinh.Size = new System.Drawing.Size(152, 21);

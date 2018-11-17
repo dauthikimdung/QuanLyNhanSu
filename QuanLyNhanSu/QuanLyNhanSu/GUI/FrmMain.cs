@@ -32,7 +32,7 @@ namespace QuanLyNhanSu
                 barQuanLyNhanVien.Enabled = false;
                 barQuaTrinhCongTac.Enabled = false;
                 barQuaTrinhHocTap.Enabled = false;
-                //barThongKeDangVien.Enabled = false;
+               
                 barThongKeNhanVienSapNghiHuu.Enabled = false;
                 barThongKeSinhNhatTheoThang.Enabled = false;
                 barThongKeTheoNhanVien.Enabled = false;
@@ -198,6 +198,11 @@ namespace QuanLyNhanSu
         #endregion
 
         private void FrmMain_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelMain_Paint(object sender, PaintEventArgs e)
         {
 
         }
