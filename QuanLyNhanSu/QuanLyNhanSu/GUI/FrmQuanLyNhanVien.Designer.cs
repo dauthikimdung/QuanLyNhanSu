@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DevExpress.XtraGrid.GridLevelNode gridLevelNode1 = new DevExpress.XtraGrid.GridLevelNode();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmQuanLyNhanVien));
+            DevExpress.XtraGrid.GridLevelNode gridLevelNode1 = new DevExpress.XtraGrid.GridLevelNode();
             this.dgrQuanLyNhanVien = new DevExpress.XtraGrid.GridControl();
             this.grvQuanLyNhanVien = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.NhanVienID = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -86,6 +86,7 @@
             // 
             // dgrQuanLyNhanVien
             // 
+            this.dgrQuanLyNhanVien.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("dgrQuanLyNhanVien.BackgroundImage")));
             gridLevelNode1.RelationName = "Level1";
             this.dgrQuanLyNhanVien.LevelTree.Nodes.AddRange(new DevExpress.XtraGrid.GridLevelNode[] {
             gridLevelNode1});
@@ -230,6 +231,7 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.White;
+            this.groupBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("groupBox1.BackgroundImage")));
             this.groupBox1.Controls.Add(this.txbSoTaiKhoan);
             this.groupBox1.Controls.Add(this.cboGioiTinh);
             this.groupBox1.Controls.Add(this.txbMaSoThua);
@@ -252,6 +254,7 @@
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.label2);
+            this.groupBox1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.groupBox1.Location = new System.Drawing.Point(722, 34);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(510, 332);

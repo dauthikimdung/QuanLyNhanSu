@@ -200,6 +200,7 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.White;
+            this.groupBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("groupBox1.BackgroundImage")));
             this.groupBox1.Controls.Add(this.dtpBatDau);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.txbNoiDung);

@@ -42,14 +42,14 @@
             this.btnSua = new DevExpress.XtraEditors.SimpleButton();
             this.dgrBangCap = new DevExpress.XtraGrid.GridControl();
             this.grvBangCap = new DevExpress.XtraGrid.Views.Grid.GridView();
-            this.btnXoa = new DevExpress.XtraEditors.SimpleButton();
-            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
-            this.label3 = new System.Windows.Forms.Label();
-            this.btnXuat = new DevExpress.XtraEditors.SimpleButton();
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn3 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn4 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.btnXoa = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
+            this.label3 = new System.Windows.Forms.Label();
+            this.btnXuat = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)(this.dtpThoiGian.Properties.CalendarTimeProperties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dtpThoiGian.Properties)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -94,6 +94,7 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.White;
+            this.groupBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("groupBox1.BackgroundImage")));
             this.groupBox1.Controls.Add(this.txbTrinhDoHocvan);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.txbBangCap);
@@ -186,6 +187,38 @@
             this.grvBangCap.PaintStyleName = "Flat";
             this.grvBangCap.RowHeight = 30;
             // 
+            // gridColumn1
+            // 
+            this.gridColumn1.Caption = "Mã bằng";
+            this.gridColumn1.FieldName = "BANGCAPID";
+            this.gridColumn1.Name = "gridColumn1";
+            this.gridColumn1.Visible = true;
+            this.gridColumn1.VisibleIndex = 0;
+            // 
+            // gridColumn2
+            // 
+            this.gridColumn2.Caption = "Trình độ học vấn";
+            this.gridColumn2.FieldName = "TRINHDOHOCVAN";
+            this.gridColumn2.Name = "gridColumn2";
+            this.gridColumn2.Visible = true;
+            this.gridColumn2.VisibleIndex = 1;
+            // 
+            // gridColumn3
+            // 
+            this.gridColumn3.Caption = "Thời gian";
+            this.gridColumn3.FieldName = "THOIGIAN";
+            this.gridColumn3.Name = "gridColumn3";
+            this.gridColumn3.Visible = true;
+            this.gridColumn3.VisibleIndex = 2;
+            // 
+            // gridColumn4
+            // 
+            this.gridColumn4.Caption = "Chi tiết";
+            this.gridColumn4.FieldName = "CHITIETBANGCAP";
+            this.gridColumn4.Name = "gridColumn4";
+            this.gridColumn4.Visible = true;
+            this.gridColumn4.VisibleIndex = 3;
+            // 
             // btnXoa
             // 
             this.btnXoa.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
@@ -227,38 +260,6 @@
             this.btnXuat.TabIndex = 83;
             this.btnXuat.Text = "Xuất ra file excel";
             this.btnXuat.Click += new System.EventHandler(this.btnXuat_Click);
-            // 
-            // gridColumn1
-            // 
-            this.gridColumn1.Caption = "Mã bằng";
-            this.gridColumn1.FieldName = "BANGCAPID";
-            this.gridColumn1.Name = "gridColumn1";
-            this.gridColumn1.Visible = true;
-            this.gridColumn1.VisibleIndex = 0;
-            // 
-            // gridColumn2
-            // 
-            this.gridColumn2.Caption = "Trình độ học vấn";
-            this.gridColumn2.FieldName = "TRINHDOHOCVAN";
-            this.gridColumn2.Name = "gridColumn2";
-            this.gridColumn2.Visible = true;
-            this.gridColumn2.VisibleIndex = 1;
-            // 
-            // gridColumn3
-            // 
-            this.gridColumn3.Caption = "Thời gian";
-            this.gridColumn3.FieldName = "THOIGIAN";
-            this.gridColumn3.Name = "gridColumn3";
-            this.gridColumn3.Visible = true;
-            this.gridColumn3.VisibleIndex = 2;
-            // 
-            // gridColumn4
-            // 
-            this.gridColumn4.Caption = "Chi tiết";
-            this.gridColumn4.FieldName = "CHITIETBANGCAP";
-            this.gridColumn4.Name = "gridColumn4";
-            this.gridColumn4.Visible = true;
-            this.gridColumn4.VisibleIndex = 3;
             // 
             // FrmBangCap
             // 

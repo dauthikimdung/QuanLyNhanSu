@@ -115,6 +115,7 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.White;
+            this.groupBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("groupBox1.BackgroundImage")));
             this.groupBox1.Controls.Add(this.cboLoaiLuong);
             this.groupBox1.Controls.Add(this.cboNhanVien);
             this.groupBox1.Controls.Add(this.dtpNgayKi);

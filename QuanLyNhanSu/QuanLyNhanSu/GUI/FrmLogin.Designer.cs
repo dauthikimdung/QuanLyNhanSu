@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmLogin));
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -38,6 +39,7 @@
             // 
             // labelControl1
             // 
+            this.labelControl1.Appearance.ForeColor = System.Drawing.Color.Purple;
             this.labelControl1.Location = new System.Drawing.Point(58, 37);
             this.labelControl1.Name = "labelControl1";
             this.labelControl1.Size = new System.Drawing.Size(72, 13);
@@ -46,6 +48,7 @@
             // 
             // labelControl2
             // 
+            this.labelControl2.Appearance.ForeColor = System.Drawing.Color.Purple;
             this.labelControl2.Location = new System.Drawing.Point(58, 88);
             this.labelControl2.Name = "labelControl2";
             this.labelControl2.Size = new System.Drawing.Size(44, 13);
@@ -71,6 +74,8 @@
             // 
             // simpleButton1
             // 
+            this.simpleButton1.Appearance.ForeColor = System.Drawing.Color.Green;
+            this.simpleButton1.Appearance.Options.UseForeColor = true;
             this.simpleButton1.Location = new System.Drawing.Point(58, 136);
             this.simpleButton1.Name = "simpleButton1";
             this.simpleButton1.Size = new System.Drawing.Size(75, 23);
@@ -80,6 +85,8 @@
             // 
             // simpleButton2
             // 
+            this.simpleButton2.Appearance.ForeColor = System.Drawing.Color.Green;
+            this.simpleButton2.Appearance.Options.UseForeColor = true;
             this.simpleButton2.Location = new System.Drawing.Point(265, 136);
             this.simpleButton2.Name = "simpleButton2";
             this.simpleButton2.Size = new System.Drawing.Size(75, 23);
@@ -91,7 +98,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(433, 178);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(397, 184);
             this.Controls.Add(this.simpleButton2);
             this.Controls.Add(this.simpleButton1);
             this.Controls.Add(this.textBox2);

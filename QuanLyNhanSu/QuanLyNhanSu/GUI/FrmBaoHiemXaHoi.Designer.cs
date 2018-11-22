@@ -40,6 +40,7 @@
             this.NHANVIENID = new DevExpress.XtraGrid.Columns.GridColumn();
             this.SOTIEN = new DevExpress.XtraGrid.Columns.GridColumn();
             this.NGAYNOP = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.txbSoTien = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.btnSua = new DevExpress.XtraEditors.SimpleButton();
@@ -48,7 +49,6 @@
             this.btnXuat = new DevExpress.XtraEditors.SimpleButton();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dtpNgayNop.Properties.CalendarTimeProperties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dtpNgayNop.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgrBaoHiemXH)).BeginInit();
@@ -160,6 +160,12 @@
             this.NGAYNOP.VisibleIndex = 3;
             this.NGAYNOP.Width = 181;
             // 
+            // gridColumn1
+            // 
+            this.gridColumn1.Caption = "gridColumn1";
+            this.gridColumn1.FieldName = "NHANVIENID";
+            this.gridColumn1.Name = "gridColumn1";
+            // 
             // txbSoTien
             // 
             this.txbSoTien.Location = new System.Drawing.Point(181, 90);
@@ -223,6 +229,7 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.White;
+            this.groupBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("groupBox1.BackgroundImage")));
             this.groupBox1.Controls.Add(this.cboNhanVien);
             this.groupBox1.Controls.Add(this.dtpNgayNop);
             this.groupBox1.Controls.Add(this.label4);
@@ -244,12 +251,6 @@
             this.label3.Size = new System.Drawing.Size(136, 13);
             this.label3.TabIndex = 28;
             this.label3.Text = "Danh sách bảo hiểm xã hội";
-            // 
-            // gridColumn1
-            // 
-            this.gridColumn1.Caption = "gridColumn1";
-            this.gridColumn1.FieldName = "NHANVIENID";
-            this.gridColumn1.Name = "gridColumn1";
             // 
             // FrmBaoHiemXaHoi
             // 
